@@ -11,5 +11,5 @@
 
 [assembly: Guid("a56a3272-6999-46bc-abe3-0a5512ed9c9e")]
 
-[assembly: AssemblyVersion("1")]
-[assembly: AssemblyFileVersion("1")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
